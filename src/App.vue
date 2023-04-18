@@ -1,6 +1,7 @@
 <template>
   <nav>
     <router-link to="/">Home</router-link> |
+    <router-link to="/theme">Theme</router-link> |
     <router-link to="/dashboard">Dashboard</router-link> |
     <router-link to="/profile">Profile</router-link> |
     <router-link to="/signin">Signin</router-link> |
